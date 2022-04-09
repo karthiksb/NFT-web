@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/NFT-web/static/css/main.ce76d078.css",
-    "main.js": "/NFT-web/static/js/main.d60ef771.js",
+    "main.css": "/NFT-web/static/css/main.780b3cd0.css",
+    "main.js": "/NFT-web/static/js/main.35a03567.js",
     "static/media/artwork.png": "/NFT-web/static/media/artwork.341543bbe0ae8cb48248.png",
     "static/media/building.png": "/NFT-web/static/media/building.006be0c98c3318910f42.png",
     "static/media/rights.png": "/NFT-web/static/media/rights.f26b07a675f431e80d26.png",
+    "static/media/dist2.png": "/NFT-web/static/media/dist2.16a095761e8a8ad9bf13.png",
+    "static/media/dist.png": "/NFT-web/static/media/dist.55bd485a7ef3fdb99881.png",
     "static/media/roadmap.png": "/NFT-web/static/media/roadmap.a023d640671f1350bd4b.png",
     "static/media/flex2.png": "/NFT-web/static/media/flex2.7b6ca0ef0acf883c9c73.png",
     "static/media/guest.png": "/NFT-web/static/media/guest.b798a5cc24a3395e2879.png",
@@ -13,11 +15,11 @@
     "static/media/flex1.png": "/NFT-web/static/media/flex1.f641d7a76e4f73a9adb1.png",
     "static/media/face.png": "/NFT-web/static/media/face.a23005a6ea6fccc26195.png",
     "index.html": "/NFT-web/index.html",
-    "main.ce76d078.css.map": "/NFT-web/static/css/main.ce76d078.css.map",
-    "main.d60ef771.js.map": "/NFT-web/static/js/main.d60ef771.js.map"
+    "main.780b3cd0.css.map": "/NFT-web/static/css/main.780b3cd0.css.map",
+    "main.35a03567.js.map": "/NFT-web/static/js/main.35a03567.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce76d078.css",
-    "static/js/main.d60ef771.js"
+    "static/css/main.780b3cd0.css",
+    "static/js/main.35a03567.js"
   ]
 }
