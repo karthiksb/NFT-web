@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NFT-web/static/css/main.780b3cd0.css",
-    "main.js": "/NFT-web/static/js/main.35a03567.js",
+    "main.css": "/NFT-web/static/css/main.036c6318.css",
+    "main.js": "/NFT-web/static/js/main.2125c836.js",
     "static/media/artwork.png": "/NFT-web/static/media/artwork.341543bbe0ae8cb48248.png",
     "static/media/building.png": "/NFT-web/static/media/building.006be0c98c3318910f42.png",
     "static/media/rights.png": "/NFT-web/static/media/rights.f26b07a675f431e80d26.png",
@@ -15,11 +15,11 @@
     "static/media/flex1.png": "/NFT-web/static/media/flex1.f641d7a76e4f73a9adb1.png",
     "static/media/face.png": "/NFT-web/static/media/face.a23005a6ea6fccc26195.png",
     "index.html": "/NFT-web/index.html",
-    "main.780b3cd0.css.map": "/NFT-web/static/css/main.780b3cd0.css.map",
-    "main.35a03567.js.map": "/NFT-web/static/js/main.35a03567.js.map"
+    "main.036c6318.css.map": "/NFT-web/static/css/main.036c6318.css.map",
+    "main.2125c836.js.map": "/NFT-web/static/js/main.2125c836.js.map"
   },
   "entrypoints": [
-    "static/css/main.780b3cd0.css",
-    "static/js/main.35a03567.js"
+    "static/css/main.036c6318.css",
+    "static/js/main.2125c836.js"
   ]
 }
